@@ -1,0 +1,1 @@
+# otel-confmap-provider-awsssm
