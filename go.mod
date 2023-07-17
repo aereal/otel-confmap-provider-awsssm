@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.27
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.36.7
-	go.opentelemetry.io/collector/confmap v0.78.2
+	go.opentelemetry.io/collector/confmap v0.77.0
 )
 
 require (
